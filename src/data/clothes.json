@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "name": "Pullover Logo Hoodie",
+        "price": 37.10,
+        "category": "Men",
+        "img": "/img/pullover.webp"
+    },
+    {
+        "id": 2,
+        "name": "Powerblend Fleece Zip",
+        "price": 42.70,
+        "category": "Men",
+        "img": "/img/powerblend.webp"
+    },
+    {
+        "id": 3,
+        "name": "Open Front Cardigan",
+        "price": 14.54,
+        "category": "Woman",
+        "img": "/img/cardigan.webp"
+    },
+    {
+        "id": 4,
+        "name": "Fleece 10 Shorts",
+        "price": 27.80,
+        "category": "Men",
+        "img": "/img/fleece.webp"
+    },
+    {
+        "id": 5,
+        "name": "Broderie Cropped Lace",
+        "price": 64.75,
+        "category": "Woman",
+        "img": "/img/cropped.webp"
+    },
+    {
+        "id": 6,
+        "name": "Men's Logo Sneakers",
+        "price": 80,
+        "category": "Men",
+        "img": "/img/sneakers.webp"
+    },
+    {
+        "id": 7,
+        "name": "Woven Badge Hoodie",
+        "price": 62.60,
+        "category": "Men",
+        "img": "/img/badge.webp"
+    },
+    {
+        "id": 8,
+        "name": "Mock-Neck Striped",
+        "price": 15,
+        "category": "Woman",
+        "img": "/img/striped.webp"
+    },
+    {
+        "id": 9,
+        "name": "Men's Fleece Pullover",
+        "price": 62.30,
+        "category": "Men",
+        "img": "/img/Fleece1.webp"
+    },
+    {
+        "id": 10,
+        "name": "Men's Palm Graphic",
+        "price": 57.25,
+        "category": "Men",
+        "img": "/img/graphic.webp"
+    },
+    {
+        "id": 11,
+        "name": "Women's Linen Printed",
+        "price": 54.5,
+        "category": "Woman",
+        "img": "/img/linen.webp"
+    },
+    {
+        "id": 12,
+        "name": "Print Pintuck Top",
+        "price": 57.25,
+        "category": "Woman",
+        "img": "/img/pintuck.webp"
+    }
+
+]
